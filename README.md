@@ -1,2 +1,2 @@
 # Basic-project
-basic project repository
+Calculator
