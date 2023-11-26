@@ -1,4 +1,4 @@
-# Basic-project
+# Calculator 
 Calculator
 <br>
 Author - Shoib khan
